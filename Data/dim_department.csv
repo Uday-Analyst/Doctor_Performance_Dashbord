@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName
+1,Emergency
+2,ICU
+3,Cardiology
+4,Neurology
+5,Orthopedics
+6,Pediatrics
+7,Dermatology
+8,Oncology
+9,ENT
+10,Billing

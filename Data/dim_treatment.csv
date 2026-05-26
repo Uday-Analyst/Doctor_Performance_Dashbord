@@ -1,0 +1,31 @@
+TreatmentID,TreatmentName,BaseCost
+1,Dialysis,4732
+2,Consultation,18145
+3,Vaccination,2930
+4,Blood Test,13006
+5,CT Scan,9860
+6,Blood Test,13514
+7,Surgery,6342
+8,Blood Test,10259
+9,Ultrasound,5212
+10,Surgery,16625
+11,Vaccination,10060
+12,MRI,17352
+13,ECG,7343
+14,Ultrasound,15686
+15,X-Ray,10012
+16,Dialysis,19918
+17,MRI,12710
+18,Physiotherapy,8852
+19,Dialysis,2408
+20,X-Ray,10841
+21,CT Scan,4837
+22,Consultation,3884
+23,MRI,14763
+24,Consultation,19718
+25,Blood Test,7311
+26,Vaccination,17137
+27,Chemotherapy,4483
+28,Ultrasound,7452
+29,Chemotherapy,17455
+30,CT Scan,19451

@@ -1,0 +1,81 @@
+DoctorID,DoctorName,Specialization,DepartmentID,ExperienceYears
+1,Dr. Krishna Nair,Dermatology,5,8
+2,Dr. Pooja Singh,Orthopedics,5,7
+3,Dr. Pooja Nair,Cardiology,9,20
+4,Dr. Aisha Singh,General Medicine,5,9
+5,Dr. Neha Khan,Dermatology,8,7
+6,Dr. Neha Verma,ENT,4,11
+7,Dr. Sai Iyer,Orthopedics,10,15
+8,Dr. Diya Singh,Cardiology,9,11
+9,Dr. Aisha Singh,Pediatrics,6,20
+10,Dr. Neha Kulkarni,Oncology,2,5
+11,Dr. Arjun Khan,Pediatrics,2,18
+12,Dr. Vivaan Iyer,Orthopedics,2,8
+13,Dr. Meera Gupta,Dermatology,7,11
+14,Dr. Aarav Sharma,Dermatology,10,8
+15,Dr. Aditya Gupta,Dermatology,6,9
+16,Dr. Riya Nair,General Medicine,1,4
+17,Dr. Priya Verma,Orthopedics,2,9
+18,Dr. Arjun Iyer,Cardiology,6,3
+19,Dr. Aditya Patel,Dermatology,6,8
+20,Dr. Ishaan Nair,Cardiology,6,1
+21,Dr. Aditya Singh,General Medicine,6,8
+22,Dr. Vihaan Verma,Dermatology,1,17
+23,Dr. Priya Patel,Oncology,3,20
+24,Dr. Ishaan Joshi,Neurology,10,20
+25,Dr. Aisha Kulkarni,General Medicine,9,13
+26,Dr. Rohan Gupta,Dermatology,9,5
+27,Dr. Vivaan Iyer,Neurology,3,8
+28,Dr. Reyansh Joshi,Dermatology,9,1
+29,Dr. Ishaan Nair,Dermatology,9,9
+30,Dr. Neha Singh,General Medicine,2,12
+31,Dr. Aditya Nair,Oncology,9,18
+32,Dr. Aisha Iyer,Cardiology,10,10
+33,Dr. Kavya Singh,Orthopedics,2,19
+34,Dr. Arjun Gupta,ENT,6,12
+35,Dr. Rohan Singh,Orthopedics,7,15
+36,Dr. Sneha Patel,Orthopedics,5,10
+37,Dr. Riya Sharma,Cardiology,3,13
+38,Dr. Diya Patel,ENT,1,14
+39,Dr. Riya Joshi,Dermatology,6,14
+40,Dr. Sneha Iyer,ENT,1,4
+41,Dr. Neha Sharma,Cardiology,1,4
+42,Dr. Meera Singh,Oncology,9,9
+43,Dr. Meera Verma,ENT,4,20
+44,Dr. Krishna Patel,Oncology,3,4
+45,Dr. Vivaan Verma,General Medicine,6,9
+46,Dr. Vivaan Iyer,General Medicine,7,13
+47,Dr. Ananya Khan,Oncology,8,8
+48,Dr. Riya Nair,Orthopedics,1,11
+49,Dr. Vihaan Nair,Orthopedics,9,16
+50,Dr. Priya Patel,Cardiology,8,7
+51,Dr. Sneha Singh,General Medicine,4,4
+52,Dr. Krishna Verma,Oncology,4,15
+53,Dr. Neha Verma,ENT,4,14
+54,Dr. Kavya Joshi,Neurology,10,16
+55,Dr. Ishaan Singh,Orthopedics,1,13
+56,Dr. Pooja Patel,Cardiology,2,6
+57,Dr. Kavya Joshi,Dermatology,3,5
+58,Dr. Aisha Patel,Dermatology,1,15
+59,Dr. Sneha Gupta,General Medicine,1,18
+60,Dr. Krishna Joshi,Orthopedics,3,11
+61,Dr. Krishna Patel,Orthopedics,3,13
+62,Dr. Meera Sharma,Pediatrics,7,8
+63,Dr. Vivaan Nair,Pediatrics,9,20
+64,Dr. Diya Patel,Pediatrics,7,15
+65,Dr. Vihaan Iyer,Cardiology,7,3
+66,Dr. Diya Patel,ENT,1,17
+67,Dr. Krishna Sharma,Cardiology,5,15
+68,Dr. Ishaan Joshi,Orthopedics,10,5
+69,Dr. Diya Verma,ENT,9,14
+70,Dr. Diya Singh,General Medicine,7,7
+71,Dr. Neha Khan,Oncology,3,9
+72,Dr. Meera Khan,Orthopedics,10,3
+73,Dr. Ananya Verma,Orthopedics,5,9
+74,Dr. Ishaan Verma,General Medicine,5,19
+75,Dr. Kavya Sharma,Orthopedics,3,9
+76,Dr. Krishna Gupta,Neurology,10,18
+77,Dr. Riya Gupta,General Medicine,4,19
+78,Dr. Arjun Nair,ENT,7,7
+79,Dr. Aditya Patel,Orthopedics,1,1
+80,Dr. Sneha Joshi,General Medicine,3,19
