@@ -52,7 +52,7 @@ Repository Structure
 
 Dashboard Preview
 
-![Dashboard Screenshot1](Asset/Daoctor_Performance_dashbord_image.png)
+![Dashboard Screenshot1](Assest/Daoctor_Performance_dashbord_image.png)
 
 GitHub README Snippet
 # Doctor Performance Dashboard
